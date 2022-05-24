@@ -1,7 +1,7 @@
 # 🚧  Alura Flutter - bytebank 🚀 Em construção...  🚧
 
 
-## Projeto desenvolvido no curso basico de flutter na Alura!
+## Projeto desenvolvido no curso básico de flutter na Alura!
 - Neste projeto, você será capaz de criar duas telas para simular uma transação de dinheiro para uma conta!
 
 ## ✔️ Técnicas e tecnologias
