@@ -1,16 +1,12 @@
-# bytebank
+# 🚧  Alura Flutter - bytebank 🚀 Em construção...  🚧
 
-A new Flutter project.
 
-## Getting Started
+## Projeto desenvolvido no curso basico de flutter na Alura!
 
-This project is a starting point for a Flutter application.
+### Funcões:
+   - Mostrar uma lista transferências.
+   - Incluir através de um form uma nova trasferencia.
 
-A few resources to get you started if this is your first Flutter project:
+### Instruções
+  - Versão do Flutter 3.0.1
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
