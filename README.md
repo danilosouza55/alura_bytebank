@@ -24,4 +24,5 @@ Para desenvolver o projeto, utilizamos as seguintes técnicas e tecnologias:
 
 ### Instruções
   - Versão do Flutter 3.0.1
+  - Esse curso faz parte da [formação de Flutter da Alura](https://cursos.alura.com.br/formacao-flutter)
 
